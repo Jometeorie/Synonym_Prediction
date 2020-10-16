@@ -1,0 +1,2 @@
+# Synonym_Prediction
+利用Bert词向量完成的同义词生成实验
